@@ -1,0 +1,68 @@
+.home-container {
+  padding: 1rem 0 3rem;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 3rem 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.jumbotron h1 {
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #2a6fd1;
+}
+
+.instructions {
+  height: 100%;
+  background-color: #f8f9fa;
+}
+
+.brain-icon {
+  max-width: 150px;
+  opacity: 0.8;
+}
+
+.predictor-section {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.data-viz-section {
+  padding: 1.5rem 0;
+}
+
+h2 {
+  color: #343a40;
+  margin-bottom: 1.5rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.nav-tabs .nav-link {
+  margin-bottom: -1px;
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  color: #495057;
+  cursor: pointer;
+}
+
+.nav-tabs .nav-link:hover {
+  border-color: #e9ecef #e9ecef #dee2e6;
+}
+
+.nav-tabs .nav-link.active {
+  color: #495057;
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+}

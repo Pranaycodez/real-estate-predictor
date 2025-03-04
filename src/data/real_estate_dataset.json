@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "price": 450000,
+    "sqft": 2200,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Downtown",
+    "type": "Condo",
+    "age": 5,
+    "date_sold": "2023-03-15"
+  },
+  {
+    "id": 2,
+    "price": 550000,
+    "sqft": 2800,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Suburban",
+    "type": "Single Family",
+    "age": 12,
+    "date_sold": "2023-02-22"
+  },
+  {
+    "id": 3,
+    "price": 375000,
+    "sqft": 1950,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Rural",
+    "type": "Single Family",
+    "age": 8,
+    "date_sold": "2023-04-05"
+  },
+  {
+    "id": 4,
+    "price": 620000,
+    "sqft": 3100,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "location": "Suburban",
+    "type": "Single Family",
+    "age": 3,
+    "date_sold": "2023-01-18"
+  },
+  {
+    "id": 5,
+    "price": 295000,
+    "sqft": 1500,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "location": "Downtown",
+    "type": "Condo",
+    "age": 15,
+    "date_sold": "2023-03-30"
+  },
+  {
+    "id": 6,
+    "price": 485000,
+    "sqft": 2400,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "location": "Suburban",
+    "type": "Single Family",
+    "age": 7,
+    "date_sold": "2023-02-12"
+  },
+  {
+    "id": 7,
+    "price": 325000,
+    "sqft": 1800,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Rural",
+    "type": "Single Family",
+    "age": 10,
+    "date_sold": "2023-04-22"
+  },
+  {
+    "id": 8,
+    "price": 580000,
+    "sqft": 2900,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Downtown",
+    "type": "Townhouse",
+    "age": 2,
+    "date_sold": "2022-12-15"
+  },
+  {
+    "id": 9,
+    "price": 410000,
+    "sqft": 2100,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "type": "Townhouse",
+    "age": 6,
+    "date_sold": "2022-11-20"
+  },
+  {
+    "id": 10,
+    "price": 650000,
+    "sqft": 3200,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "location": "Downtown",
+    "type": "Single Family",
+    "age": 1,
+    "date_sold": "2023-01-08"
+  },
+  {
+    "id": 11,
+    "price": 340000,
+    "sqft": 1900,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Rural",
+    "type": "Single Family",
+    "age": 9,
+    "date_sold": "2022-12-05"
+  },
+  {
+    "id": 12,
+    "price": 420000,
+    "sqft": 2200,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "location": "Suburban",
+    "type": "Townhouse",
+    "age": 5,
+    "date_sold": "2022-10-18"
+  },
+  {
+    "id": 13,
+    "price": 395000,
+    "sqft": 2000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "type": "Single Family",
+    "age": 11,
+    "date_sold": "2022-09-25"
+  },
+  {
+    "id": 14,
+    "price": 520000,
+    "sqft": 2600,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": "Downtown",
+    "type": "Condo",
+    "age": 4,
+    "date_sold": "2022-11-12"
+  },
+  {
+    "id": 15,
+    "price": 360000,
+    "sqft": 1850,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Rural",
+    "type": "Single Family",
+    "age": 14,
+    "date_sold": "2022-10-30"
+  },
+  {
+    "id": 16,
+    "price": 675000,
+    "sqft": 3400,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "location": "Suburban",
+    "type": "Single Family",
+    "age": 2,
+    "date_sold": "2022-12-22"
+  },
+  {
+    "id": 17,
+    "price": 305000,
+    "sqft": 1600,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "location": "Downtown",
+    "type": "Condo",
+    "age": 12,
+    "date_sold": "2022-09-15"
+  },
+  {
+    "id": 18,
+    "price": 430000,
+    "sqft": 2300,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Suburban",
+    "type": "Townhouse",
+    "age": 6,
+    "date_sold": "2022-08-28"
+  },
+  {
+    "id": 19,
+    "price": 490000,
+    "sqft": 2500,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "location": "Downtown",
+    "type": "Townhouse",
+    "age": 3,
+    "date_sold": "2022-07-14"
+  },
+  {
+    "id": 20,
+    "price": 350000,
+    "sqft": 1950,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Rural",
+    "type": "Single Family",
+    "age": 9,
+    "date_sold": "2022-08-05"
+  }
+]
