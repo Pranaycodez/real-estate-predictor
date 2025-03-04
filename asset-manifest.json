@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Real-estate-predictor/static/css/main.5ad4abc7.css",
+    "main.js": "/Real-estate-predictor/static/js/main.f05d23ce.js",
+    "static/js/453.eb30d820.chunk.js": "/Real-estate-predictor/static/js/453.eb30d820.chunk.js",
+    "index.html": "/Real-estate-predictor/index.html",
+    "main.5ad4abc7.css.map": "/Real-estate-predictor/static/css/main.5ad4abc7.css.map",
+    "main.f05d23ce.js.map": "/Real-estate-predictor/static/js/main.f05d23ce.js.map",
+    "453.eb30d820.chunk.js.map": "/Real-estate-predictor/static/js/453.eb30d820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad4abc7.css",
+    "static/js/main.f05d23ce.js"
+  ]
+}
