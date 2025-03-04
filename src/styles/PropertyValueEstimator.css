@@ -1,0 +1,21 @@
+.property-estimator-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.estimator-card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.estimated-value-container {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.estimated-value-container h3 {
+  color: #28a745;
+  font-weight: bold;
+}

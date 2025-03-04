@@ -10,9 +10,6 @@ const Header = () => {
           <i className="fas fa-home me-2"></i>
           Real Estate Predictor
         </Navbar.Brand>
-        <div className="navbar-text text-light d-none d-md-block">
-          AI-powered property price estimation
-        </div>
       </Container>
     </Navbar>
   );
