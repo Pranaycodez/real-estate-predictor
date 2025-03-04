@@ -4,6 +4,35 @@
 	http://jedwatson.github.io/classnames
 */
 
+/*!
+ * @kurkle/color v0.3.4
+ * https://github.com/kurkle/color#readme
+ * (c) 2024 Jukka Kurkela
+ * Released under the MIT License
+ */
+
+/*!
+ * Chart.js v4.4.8
+ * https://www.chartjs.org
+ * (c) 2025 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+/**
+     * gpu.js
+     * http://gpu.rocks/
+     *
+     * GPU Accelerated JavaScript
+     *
+     * @version 2.16.0
+     * @date Wed Nov 16 2022 15:48:37 GMT-0500 (Eastern Standard Time)
+     *
+     * @license MIT
+     * The MIT License
+     *
+     * Copyright (c) 2022 gpu.js Team
+     */
+
 /**
  * @license React
  * react-dom.production.min.js
@@ -46,28 +75,6 @@
 
 /**
  * @remix-run/router v1.3.3
- *
- * Copyright (c) Remix Software Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE.md file in the root directory of this source tree.
- *
- * @license MIT
- */
-
-/**
- * React Router DOM v6.8.2
- *
- * Copyright (c) Remix Software Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE.md file in the root directory of this source tree.
- *
- * @license MIT
- */
-
-/**
- * React Router v6.8.2
  *
  * Copyright (c) Remix Software Inc.
  *

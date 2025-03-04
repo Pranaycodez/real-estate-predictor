@@ -1,6 +1,6 @@
 {
-  "short_name": "Real Estate Predictor",
-  "name": "Real Estate Price Prediction App",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
