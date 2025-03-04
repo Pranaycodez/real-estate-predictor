@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/real-estate-predictor/static/css/main.5ad4abc7.css",
-    "main.js": "/real-estate-predictor/static/js/main.6bac25cc.js",
-    "static/js/453.eb30d820.chunk.js": "/real-estate-predictor/static/js/453.eb30d820.chunk.js",
-    "index.html": "/real-estate-predictor/index.html",
-    "main.5ad4abc7.css.map": "/real-estate-predictor/static/css/main.5ad4abc7.css.map",
-    "main.6bac25cc.js.map": "/real-estate-predictor/static/js/main.6bac25cc.js.map",
-    "453.eb30d820.chunk.js.map": "/real-estate-predictor/static/js/453.eb30d820.chunk.js.map"
+    "main.css": "/Real-estate-predictor/static/css/main.d6755267.css",
+    "main.js": "/Real-estate-predictor/static/js/main.92592791.js",
+    "static/js/453.eb30d820.chunk.js": "/Real-estate-predictor/static/js/453.eb30d820.chunk.js",
+    "index.html": "/Real-estate-predictor/index.html",
+    "main.d6755267.css.map": "/Real-estate-predictor/static/css/main.d6755267.css.map",
+    "main.92592791.js.map": "/Real-estate-predictor/static/js/main.92592791.js.map",
+    "453.eb30d820.chunk.js.map": "/Real-estate-predictor/static/js/453.eb30d820.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ad4abc7.css",
-    "static/js/main.6bac25cc.js"
+    "static/css/main.d6755267.css",
+    "static/js/main.92592791.js"
   ]
 }
